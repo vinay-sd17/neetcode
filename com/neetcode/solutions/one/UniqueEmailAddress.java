@@ -2,6 +2,7 @@ package com.neetcode.solutions.one;
 
 import java.util.HashSet;
 
+// https://leetcode.com/problems/unique-email-addresses/
 public class UniqueEmailAddress {
 
   public static void main(String[] args) {

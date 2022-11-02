@@ -2,6 +2,7 @@ package com.neetcode.solutions.one;
 
 import java.util.HashMap;
 
+// https://leetcode.com/problems/majority-element/
 public class MajorityElement {
 
   public static void main(String[] args) {

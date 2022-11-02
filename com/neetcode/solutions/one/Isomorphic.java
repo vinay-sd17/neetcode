@@ -2,6 +2,7 @@ package com.neetcode.solutions.one;
 
 import java.util.HashMap;
 
+// https://leetcode.com/problems/isomorphic-strings/
 public class Isomorphic {
 
   public static void main(String[] args) {

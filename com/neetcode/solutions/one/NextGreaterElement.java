@@ -2,6 +2,7 @@ package com.neetcode.solutions.one;
 
 import java.util.Arrays;
 
+// https://leetcode.com/problems/next-greater-element-i/
 public class NextGreaterElement {
 
   public static void main(String[] args) {

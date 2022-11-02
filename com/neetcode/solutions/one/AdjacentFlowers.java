@@ -1,5 +1,6 @@
 package com.neetcode.solutions.one;
 
+// https://leetcode.com/problems/can-place-flowers/description/
 public class AdjacentFlowers {
 
   public static void main(String[] args) {
